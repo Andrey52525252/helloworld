@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "iostream": "cpp",
+        "xutility": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/admin/projects/helloworld/3d_project"
+}

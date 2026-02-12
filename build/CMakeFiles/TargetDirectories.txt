@@ -1,0 +1,3 @@
+C:/Users/admin/projects/helloworld/build/CMakeFiles/opengl_test.dir
+C:/Users/admin/projects/helloworld/build/CMakeFiles/edit_cache.dir
+C:/Users/admin/projects/helloworld/build/CMakeFiles/rebuild_cache.dir

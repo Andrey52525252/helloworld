@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/admin/projects/helloworld/build",
+  "command": "C:\\mingw32\\bin\\c++.exe -IC:/Users/admin/vcpkg/installed/x64-windows/include -g -o CMakeFiles\\opengl_test.dir\\src\\main.cpp.obj -c C:\\Users\\admin\\projects\\helloworld\\3d_project\\src\\main.cpp",
+  "file": "C:/Users/admin/projects/helloworld/3d_project/src/main.cpp",
+  "output": "C:/Users/admin/projects/helloworld/build/CMakeFiles/opengl_test.dir/src/main.cpp.obj"
+}
+]
